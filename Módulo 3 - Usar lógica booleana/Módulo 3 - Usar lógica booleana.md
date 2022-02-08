@@ -33,7 +33,7 @@ Para expresar la lógica condicional en Python, se utilizan instrucciones ```if 
 
 ### Expresiones de prueba
 
-Debes usar una instrucción ``if`` para ejecutar código solo si se cumple una determinada condición. Lo primero que se hace cuando se escribe una instrucción ``if`` es comprobar la condición mediante una *expresión de prueba*. A continuación, determins si la instrucción evalúa a ``True (Verdadero)`` o ``False (Falso)`` . Si es ``True (Verdadero)``, se ejecuta el siguiente bloque de código con sangría:
+Debes usar una instrucción ``if`` para ejecutar código solo si se cumple una determinada condición. Lo primero que se hace cuando se escribe una instrucción ``if`` es comprobar la condición mediante una *expresión de prueba*. A continuación, determina si la instrucción evalúa a ``True (Verdadero)`` o ``False (Falso)`` . Si es ``True (Verdadero)``, se ejecuta el siguiente bloque de código con sangría:
 
 ```
 # Tip de práctica 1: Intenta ejecutarlo en un notebook.
